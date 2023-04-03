@@ -1,0 +1,17 @@
+.p-relative {
+	position: relative;
+}
+
+.p-absolute {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%)
+}
+
+.m-width {
+	min-width: 350px;
+}	
+
+.pd-input {
+	padding: 0.3rem 0.7rem !important;
+}

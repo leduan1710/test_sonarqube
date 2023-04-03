@@ -1,0 +1,10 @@
+footer {
+	background: #343a40;
+	height: auto;
+	padding: 40px;
+	margin-top: 180px;
+}
+
+footer a {
+	color: #f8f9fa !important
+}
